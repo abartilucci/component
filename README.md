@@ -1,5 +1,4 @@
-# Component
-Project of a written test for the exam of Programming Methodologies of University of Florence Computer Science graduate course.
+**Purposes** : project of a written test for the exam of Programming Methodologies of University of Florence Computer Science graduate course.
 
 # Esercizio 1
 Si implementi il tipo di dato Component. Un Component può essere :
@@ -35,5 +34,8 @@ Supponendo di essere in un’altra classe in cui abbiamo due Component c1 e c2, 
 - la stampa della somma dei valori interi di tutti gli ItemInt presenti nel Component c1
 - la stampa della somma dei valori interi di tutti gli ItemInt presenti nel Component c2.
 
+
+
+## UML Representation of the purposed solution
 
 ![UML Representation](https://imagizer.imageshack.com/img923/8292/Vep47G.png)
