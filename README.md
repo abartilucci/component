@@ -34,3 +34,5 @@ Supponendo di essere in un’altra classe in cui abbiamo due Component c1 e c2, 
 
 - la stampa della somma dei valori interi di tutti gli ItemInt presenti nel Component c1
 - la stampa della somma dei valori interi di tutti gli ItemInt presenti nel Component c2.
+
+
