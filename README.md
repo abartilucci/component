@@ -23,7 +23,7 @@ _Su ogni Component devono essere disponibili i metodi:_
 
 Su tutti i Component deve essere possibile definire operazioni esterne (ossia, senza modificare le classi della gerarchia di Component) come **Visitor**.
 
-1.Si definiscano le classi per poter aggiungere queste operazioni esterne.
+1. Si definiscano le classi per poter aggiungere queste operazioni esterne.
 
 2. Si implementi, come Visitor concreto, l’operazione **SumInt**, che calcola la somma dei valori interi di tutti gli ItemInt presenti in un Component (includendo, quindi, anche quelli dei Component interni se esso è un Complex); questo Visitor dovrà anche avere un metodo per restituire l’intero-somma così calcolato.
 
