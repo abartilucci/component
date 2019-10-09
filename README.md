@@ -1,5 +1,5 @@
 # Component
-Project of a written test for the exam of Programming Methodologies.
+Project of a written test for the exam of Programming Methodologies of University of Florence Computer Science graduate course.
 
 # Esercizio 1
 Si implementi il tipo di dato Component. Un Component può essere :
