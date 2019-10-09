@@ -36,4 +36,4 @@ Supponendo di essere in un’altra classe in cui abbiamo due Component c1 e c2, 
 - la stampa della somma dei valori interi di tutti gli ItemInt presenti nel Component c2.
 
 
-![UML Representation](https://imagizer.imageshack.com/v2/640x480q90/923/Vep47G.png)
+![UML Representation](https://imagizer.imageshack.com/img923/8292/Vep47G.png)
